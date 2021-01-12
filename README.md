@@ -7,9 +7,9 @@ Você pode começar o controle do seu sono a partir de um botão chamado "Start"
 você será levado para o fragmento de avaliação, onde poderá dar um *feedback* de como foi seu sono, assim, retornará para o fragmento principal, onde aparecerá a sua nova "soneca".
 
 ## Screenshots 📱
-<img src="https://github.com/arturbruno17/GuessTheWord/blob/main/screenshots/sleep_quality_tracker_start.png" width="30%"></img> 
-<img src="https://github.com/arturbruno17/GuessTheWord/blob/main/screenshots/sleep_quality_tracker_stop.png" width="30%"></img> 
-<img src="https://github.com/arturbruno17/GuessTheWord/blob/main/screenshots/sleep_quality_tracker_quality.png" width="30%"></img>
+<img src="https://github.com/arturbruno17/TrackMySleepQuality/blob/Project-without-RecyclerView/screenshots/sleep_quality_tracker_quality.png" width="30%"></img> 
+<img src="https://github.com/arturbruno17/TrackMySleepQuality/blob/Project-without-RecyclerView/screenshots/sleep_quality_tracker_start.png" width="30%"></img> 
+<img src="https://github.com/arturbruno17/TrackMySleepQuality/blob/Project-without-RecyclerView/screenshots/sleep_quality_tracker_stop.png" width="30%"></img>
 
 ## Contribuição
 O app foi criado e testado em um dispositivo físico, Redmi Note 9s, mas é disponível para qualquer um que queira contribuir.
