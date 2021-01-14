@@ -19,7 +19,7 @@ O app foi criado e testado em um dispositivo físico, Redmi Note 9s, mas é disp
 Caso tenha alguma ideia de como melhorar o app, realize os seguintes passos:
 
 1. Para contribuir, basta fazer um fork. 
-(<https://github.com/arturbruno17/fork>)
+(<https://github.com/arturbruno17/TrackMySleepQuality/fork>)
 
 2. Crie uma branch para sua modificação
 (`git checkout -b feature/fooBar`)
